@@ -1,0 +1,99 @@
+@import "../style/global";
+
+:host {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.menu-line {
+  background-color: $base-color;
+  display: flex;
+}
+
+.menu {
+  margin-left: auto;
+  float: right;
+  display: none;
+  @media (min-width: 640px) { //when larger screen
+    display: block;
+  }
+}
+
+.hamburger-menu {
+  margin-left: auto;
+  float: right;
+  display: block;
+  @media (min-width: 640px) { //when larger screen
+    display: none;
+  }
+}
+
+.nav-bar {
+  height: 100%;
+  padding: 10px;
+}
+
+.menu-button {
+  font-family: $title-font;
+  font-size: 2.5rem;
+  color: black;
+}
+
+.hamburger-menu-button {
+  font-family: $title-font;
+  font-size: 2rem;
+  color: black;
+}
+
+.title > div {
+  font-family: $title-font;
+  font-size: 4em;
+  margin: 20px;
+  text-align: center;
+}
+
+//
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover, a:active{
+  color: lightgray;
+}
+.navigation-items{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+mat-toolbar{
+  border-radius: 3px;
+}
+@media(max-width: 959px){
+  mat-toolbar{
+    border-radius: 0px;
+  }
+}
+
+//
+
+.custom-shape-divider-top-1665417664 {
+  //position: fixed;
+  //top: 0;
+  //left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1665417664 svg {
+  position: relative;
+  display: block;
+  width: calc(106% + 1.3px);
+  height: 100px;
+}
+
+.custom-shape-divider-top-1665417664 .shape-fill {
+  fill: $base-color;
+}

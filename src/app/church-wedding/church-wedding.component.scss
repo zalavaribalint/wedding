@@ -1,0 +1,31 @@
+@import "../style/global";
+
+.wrapper {
+  //margin: 5px;
+}
+
+.image-right {
+  border:10px outset $base-color-dark;
+  max-width: 300px;
+  border-radius: 50%;
+  transform: rotate(-20deg);
+  z-index: -50;
+}
+
+.image-left {
+  border:10px outset $base-color-dark;
+  max-width: 300px;
+  border-radius: 50%;
+  transform: rotate(20deg);
+  z-index: -50;
+}
+
+.map-holder {
+  display: flex;
+  padding: 10px;
+}
+
+.map {
+  margin-left: auto;
+  float: right;
+}
