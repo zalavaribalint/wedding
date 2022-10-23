@@ -17,10 +17,14 @@ html, body {
   src: local("LibreBaskerville"), url(./app/fonts/LibreBaskerville-Regular.ttf) format("truetype");
 }
 
-
 @font-face {
   font-family: "FleurDeLeah";
   src: local("LibreBaskerville"), url(./app/fonts/FleurDeLeah-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "GreatVibes";
+  src: local("GreatVibes"), url(./app/fonts/GreatVibes-Regular.ttf) format("truetype");
 }
 
 html, body {
