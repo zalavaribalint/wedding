@@ -16,6 +16,7 @@ import { HomeComponent } from './home/home.component';
 import { WeavyBlockComponent } from './weavy-block/weavy-block.component';
 import { SplitBlockComponent } from './split-block/split-block.component';
 import { SimpleBlockComponent } from './simple-block/simple-block.component';
+import { CivilWeddingComponent } from './civil-wedding/civil-wedding.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { SimpleBlockComponent } from './simple-block/simple-block.component';
     HomeComponent,
     WeavyBlockComponent,
     SplitBlockComponent,
-    SimpleBlockComponent
+    SimpleBlockComponent,
+    CivilWeddingComponent
   ],
   imports: [
     BrowserModule,

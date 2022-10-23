@@ -1,0 +1,7 @@
+@import "../style/global";
+
+.image {
+  border:2px outset $base-color-dark;
+  max-width: 500px;
+  border-radius: 50%;
+}
