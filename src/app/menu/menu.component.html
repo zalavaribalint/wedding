@@ -1,24 +1,31 @@
-<div class="menu-line">
-  <div class="title">
-    <div>Viki & Bálint</div>
-<!--    <div>2023</div>-->
+<div class="menu-line container">
+  <div class="row">
+    <div class="col d-flex justify-content-center">
+      <img class="d-none d-md-block" style="height: 60px; transform: scaleX(-1);" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wikimania2019_vine_icon.svg/1280px-Wikimania2019_vine_icon.svg.png">
+      <span class="title">Viki & Bálint</span>
+      <img class="d-none d-md-block" style="height: 60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wikimania2019_vine_icon.svg/1280px-Wikimania2019_vine_icon.svg.png">
+    </div>
+    <div class="col-xs d-flex justify-content-center d-md-none">
+      <button mat-button [matMenuTriggerFor]="menu"><mat-icon>menu</mat-icon></button>
+      <mat-menu #menu="matMenu">
+        <a routerLink="/home"><button mat-menu-item><span class="hamburger-menu-button">Kezdőlap</span></button></a>
+        <a routerLink="/church-wedding"><button mat-menu-item><span class="hamburger-menu-button">Egyházi</span></button></a>
+        <a routerLink="/civil-wedding"><button mat-menu-item><span class="hamburger-menu-button">Polgári</span></button></a>
+        <a routerLink="/church-wedding"><button mat-menu-item><span class="hamburger-menu-button">Lakodalom</span></button></a>
+      </mat-menu>
+    </div>
   </div>
-  <div class="menu">
-    <nav class="nav-bar">
-      <a routerLink="/home"><button mat-button><span class="menu-button">Kezdőlap</span></button></a>
-      <a routerLink="/church-wedding"><button mat-button><span class="menu-button">Egyházi</span></button></a>
-      <a routerLink="/church-wedding"><button mat-button><span class="menu-button">Polgári</span></button></a>
-      <a routerLink="/church-wedding"><button mat-button><span class="menu-button">Lakodalom</span></button></a>
-    </nav>
-  </div>
-  <div class="hamburger-menu">
-    <button mat-button [matMenuTriggerFor]="menu"><mat-icon>menu</mat-icon></button>
-    <mat-menu #menu="matMenu">
-      <a routerLink="/home"><button mat-menu-item><span class="hamburger-menu-button">Kezdőlap</span></button></a>
-      <a routerLink="/church-wedding"><button mat-menu-item><span class="hamburger-menu-button">Egyházi</span></button></a>
-      <a routerLink="/church-wedding"><button mat-menu-item><span class="hamburger-menu-button">Polgári</span></button></a>
-      <a routerLink="/church-wedding"><button mat-menu-item><span class="hamburger-menu-button">Lakodalom</span></button></a>
-    </mat-menu>
+  <div class="row">
+    <div class="col d-flex justify-content-center">
+      <div class="menu d-none d-md-block">
+        <nav class="nav-bar">
+          <a routerLink="/home"><button mat-button class="menu-button"><span class="menu-button-text">Kezdőlap</span></button></a>
+          <a routerLink="/church-wedding"><button mat-button class="menu-button"><span class="menu-button-text">Egyházi</span></button></a>
+          <a routerLink="/civil-wedding"><button mat-button class="menu-button"><span class="menu-button-text">Polgári</span></button></a>
+          <a routerLink="/church-wedding"><button mat-button class="menu-button"><span class="menu-button-text">Lakodalom</span></button></a>
+        </nav>
+      </div>
+    </div>
   </div>
 </div>
 <div class="custom-shape-divider-top-1665417664">

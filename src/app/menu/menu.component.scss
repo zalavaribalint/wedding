@@ -1,4 +1,5 @@
 @import "../style/global";
+@import "node_modules/bootstrap/scss/bootstrap";
 
 :host {
   position: fixed;
@@ -9,49 +10,36 @@
 
 .menu-line {
   background-color: $base-color;
-  display: flex;
-}
-
-.menu {
-  margin-left: auto;
-  float: right;
-  display: none;
-  @media (min-width: 640px) { //when larger screen
-    display: block;
-  }
-}
-
-.hamburger-menu {
-  margin-left: auto;
-  float: right;
-  display: block;
-  @media (min-width: 640px) { //when larger screen
-    display: none;
-  }
+  width: 100%;
+  max-width: 100%;
+  //display: flex;
 }
 
 .nav-bar {
-  height: 100%;
+  height: 60px;
   padding: 10px;
 }
 
 .menu-button {
-  font-family: $title-font;
-  font-size: 2.5rem;
-  color: black;
+  height: 50px;
 }
 
-.hamburger-menu-button {
-  font-family: $title-font;
+.menu-button-text {
+  font-family: $menu-font;
   font-size: 2rem;
   color: black;
 }
 
-.title > div {
+.hamburger-menu-button {
+  font-family: $menu-font;
+  font-size: 1.5rem;
+  color: black;
+}
+
+.title {
   font-family: $title-font;
-  font-size: 4em;
-  margin: 20px;
-  text-align: center;
+  font-size: 5em;
+  padding: 30px;
 }
 
 //
@@ -79,8 +67,8 @@ mat-toolbar{
 //
 
 .custom-shape-divider-top-1665417664 {
-  //position: fixed;
-  //top: 0;
+  position: fixed;
+  top: -10;
   //left: 0;
   width: 100%;
   overflow: hidden;
