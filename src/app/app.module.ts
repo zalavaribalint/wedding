@@ -13,7 +13,6 @@ import {MatMenuModule} from "@angular/material/menu";
 import {MatButtonModule} from "@angular/material/button";
 import { ChurchWeddingComponent } from './church-wedding/church-wedding.component';
 import { HomeComponent } from './home/home.component';
-import { WeavyBlockComponent } from './weavy-block/weavy-block.component';
 import { SplitBlockComponent } from './split-block/split-block.component';
 import { SimpleBlockComponent } from './simple-block/simple-block.component';
 import { CivilWeddingComponent } from './civil-wedding/civil-wedding.component';
@@ -25,7 +24,6 @@ import { AccommodationComponent } from './accommodation/accommodation.component'
     MenuComponent,
     ChurchWeddingComponent,
     HomeComponent,
-    WeavyBlockComponent,
     SplitBlockComponent,
     SimpleBlockComponent,
     CivilWeddingComponent,
