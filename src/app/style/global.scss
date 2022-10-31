@@ -9,3 +9,9 @@ $menu-font: GreatVibes;
 .unit {
   margin: 10px;
 }
+
+.image {
+  border:2px outset $base-color-dark;
+  max-width: 400px;
+  border-radius: 50%;
+}
