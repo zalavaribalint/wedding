@@ -1,0 +1,20 @@
+@import "../style/global";
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.quote {
+  width: 550px !important;
+}
+
+.quote-line {
+  font-family: $menu-font;
+  font-size: 2.5rem;
+  padding: 10px;
+  text-align: center;
+}
+
+.author {
+  font-family: $title-font;
+  font-size: 3rem;
+  padding: 10px;
+  text-align: right;
+}
