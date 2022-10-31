@@ -17,6 +17,7 @@ import { SplitBlockComponent } from './split-block/split-block.component';
 import { SimpleBlockComponent } from './simple-block/simple-block.component';
 import { CivilWeddingComponent } from './civil-wedding/civil-wedding.component';
 import { AccommodationComponent } from './accommodation/accommodation.component';
+import {NgImageSliderModule} from "ng-image-slider";
 
 @NgModule({
   declarations: [
@@ -38,7 +39,8 @@ import { AccommodationComponent } from './accommodation/accommodation.component'
     MatIconModule,
     MatSidenavModule,
     MatMenuModule,
-    MatButtonModule
+    MatButtonModule,
+    NgImageSliderModule
   ],
   providers: [],
   bootstrap: [AppComponent]
