@@ -4,7 +4,7 @@
   </svg>
 </div>
 <div class="container block">
-  <div class="row justify-content-center">
+  <div class="row" [ngClass]="centerAlign ? 'justify-content-center' : ''">
     <ng-content></ng-content>
   </div>
 </div>

@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-split-block',
@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./split-block.component.scss']
 })
 export class SplitBlockComponent implements OnInit {
+
+  @Input() centerAlign = true;
 
   constructor() { }
 
