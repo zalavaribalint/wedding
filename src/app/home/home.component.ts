@@ -51,6 +51,36 @@ export class HomeComponent implements OnInit {
   }, {
     image: 'https://drive.google.com/uc?export=view&id=1hksxyd6Mr2Ho9blxOq0BzLs7dH1OvFNY',
     thumbImage: 'https://drive.google.com/uc?export=view&id=19Fl7wMoAXMbBU1RiX_EgP-ZAQJpfaR_L'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=1pBP7eDRTpJFrYO1qxmXngMWeiGUpjsvX',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1h-ux3etjTeLSfz4vAtMLpga1WD95lSYF'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=1v9K0bEgeyjNmKcmtaZBxn0_Q7bv1YDyv',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1PfPndk_4fWWYf2vJ0hG72cdqd_1TrDeN'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=1l7iSIb3rZ3aXz2TI2eMcUR-DXHx_HRzV',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1hfRq6osLgtOY3rDMhiZW4HlA62poDgK4'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=1Pp21o0DM8XqECP2pAEgxDCGPv4MjwzbH',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1FrlXGAcuUPHIfbpZFEV3T9eQVWBMdtJ0'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=1TJO26yi7ulA6WHFFqXRxA_ZsIZzGD8vx',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1g8pkQvrUe7yJrlzgb87QxV6nPkL6MeN4'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=1GPJxaMFVQOks2IXFQ66ckWgp8YzGsdEN',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1tmLnguLJaaBl1rZ4279nfj2YTLe6lRdt'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=10VzPsB4_u8u6jiMEeQG5m2yoAUSbrUi8',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1tz-eJIQgXvDAVaivf_Q7_WLdS_rWm3x4'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=1uA2nClIHE2PqOJxS-x_Yn59jTAa8FoWv',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1RYNSsX5VCTNXupMPEGOLblqHsAMohBhe'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=1mHSk4y3ek8zmpKdYn9V7T4yULHk-g2AX',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1hNZY5-ncQ_3yL0S_Q0ClHJnXONTEJkdD'
+  }, {
+    image: 'https://drive.google.com/uc?export=view&id=19azbPZSK9VcOgHztaWvflyY_vsPEIfw5',
+    thumbImage: 'https://drive.google.com/uc?export=view&id=1jlgoPe4N2GN9ipEeGiFgYjek4jArRDSY'
   }
   ];
 
