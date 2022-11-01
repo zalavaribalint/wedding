@@ -1,6 +1,15 @@
 @import "../style/global";
 @import "node_modules/bootstrap/scss/bootstrap";
 
+.left-image {
+  height: 120px;
+}
+
+.right-image {
+  height: 120px;
+  transform: scaleX(-1);
+}
+
 .quote {
   width: 380px !important;
 }
