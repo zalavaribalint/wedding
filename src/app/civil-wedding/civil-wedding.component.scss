@@ -1,2 +1,10 @@
 @import "../style/global";
 @import "node_modules/bootstrap/scss/bootstrap";
+
+.parking {
+  max-width: 600px;
+}
+
+.parking-img {
+  padding: 10px;
+}
