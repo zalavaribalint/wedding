@@ -10,7 +10,7 @@ export class AppComponent {
 
   constructor(private translate: TranslateService) {
     translate.setDefaultLang('hu');
-    translate.use('hu');
+    translate.use(navigator.language);
   }
 
 }
