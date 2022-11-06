@@ -66,6 +66,12 @@ MIT
 @angular/router
 MIT
 
+@ngx-translate/core
+MIT
+
+@ngx-translate/http-loader
+MIT
+
 ng-image-slider
 MIT
 MIT License
