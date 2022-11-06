@@ -10,10 +10,10 @@
     <div class="col-xs d-flex justify-content-center d-md-none">
       <button mat-button [matMenuTriggerFor]="menu"><mat-icon>menu</mat-icon></button>
       <mat-menu #menu="matMenu">
-        <a routerLink="/home"><button mat-menu-item><span class="hamburger-menu-button">Kezdőlap</span></button></a>
-        <a routerLink="/church-wedding"><button mat-menu-item><span class="hamburger-menu-button">Egyházi</span></button></a>
-        <a routerLink="/civil-wedding"><button mat-menu-item><span class="hamburger-menu-button">Polgári</span></button></a>
-        <a routerLink="/accommodation"><button mat-menu-item><span class="hamburger-menu-button">Szállás</span></button></a>
+        <a routerLink="/home"><button mat-menu-item><span class="hamburger-menu-button">{{ 'menu.home' | translate }}</span></button></a>
+        <a routerLink="/church-wedding"><button mat-menu-item><span class="hamburger-menu-button">{{ 'menu.church' | translate }}</span></button></a>
+        <a routerLink="/civil-wedding"><button mat-menu-item><span class="hamburger-menu-button">{{ 'menu.civil' | translate }}</span></button></a>
+        <a routerLink="/accommodation"><button mat-menu-item><span class="hamburger-menu-button">{{ 'menu.accommodation' | translate }}</span></button></a>
       </mat-menu>
     </div>
   </div>
@@ -21,10 +21,10 @@
     <div class="col d-flex justify-content-center">
       <div class="menu d-none d-md-block">
         <nav class="nav-bar">
-          <a routerLink="/home"><button mat-button class="menu-button"><span class="menu-button-text">Kezdőlap</span></button></a>
-          <a routerLink="/church-wedding"><button mat-button class="menu-button"><span class="menu-button-text">Egyházi</span></button></a>
-          <a routerLink="/civil-wedding"><button mat-button class="menu-button"><span class="menu-button-text">Polgári</span></button></a>
-          <a routerLink="/accommodation"><button mat-button class="menu-button"><span class="menu-button-text">Szállás</span></button></a>
+          <a routerLink="/home"><button mat-button class="menu-button"><span class="menu-button-text">{{ 'menu.home' | translate }}</span></button></a>
+          <a routerLink="/church-wedding"><button mat-button class="menu-button"><span class="menu-button-text">{{ 'menu.church' | translate }}</span></button></a>
+          <a routerLink="/civil-wedding"><button mat-button class="menu-button"><span class="menu-button-text">{{ 'menu.civil' | translate }}</span></button></a>
+          <a routerLink="/accommodation"><button mat-button class="menu-button"><span class="menu-button-text">{{ 'menu.accommodation' | translate }}</span></button></a>
         </nav>
       </div>
     </div>
