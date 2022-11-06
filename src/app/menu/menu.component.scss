@@ -57,6 +57,20 @@
   padding-bottom: 25px;
 }
 
+.language-selector {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+}
+
+.language-selector-button {
+  margin: 3px;
+}
+
+.language-selector-button:hover {
+  cursor: pointer;
+}
+
 //
 a {
   text-decoration: none;
