@@ -18,6 +18,9 @@ import { SimpleBlockComponent } from './simple-block/simple-block.component';
 import { CivilWeddingComponent } from './civil-wedding/civil-wedding.component';
 import { AccommodationComponent } from './accommodation/accommodation.component';
 import {NgImageSliderModule} from "ng-image-slider";
+import {TranslateLoader, TranslateModule} from '@ngx-translate/core';
+import {TranslateHttpLoader} from '@ngx-translate/http-loader';
+import {HttpClient, HttpClientModule} from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -40,9 +43,21 @@ import {NgImageSliderModule} from "ng-image-slider";
     MatSidenavModule,
     MatMenuModule,
     MatButtonModule,
-    NgImageSliderModule
+    NgImageSliderModule,
+    HttpClientModule,
+    TranslateModule.forRoot({
+      loader: {
+        provide: TranslateLoader,
+        useFactory: HttpLoaderFactory,
+        deps: [HttpClient]
+      }
+    })
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+export function HttpLoaderFactory(http: HttpClient): TranslateHttpLoader {
+  return new TranslateHttpLoader(http);
+}
