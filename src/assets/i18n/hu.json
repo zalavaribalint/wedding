@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "home": "Kezdőlap",
+    "church": "Egyházi",
+    "civil": "Polgári",
+    "accommodation": "Szállás"
+  },
+  "home": {
+    "quote": {
+      "line1": "Mi nem hirdetjük fennen hangos szóval,",
+      "line2": "Csak Te, csak Én, örökké és holtomiglan,",
+      "line3": "Mi megpróbálunk csendben boldogok lenni,",
+      "line4": "Lelkünk mélyén őszintén igazán szeretni.",
+      "author": "Stendhal"
+    }
+  }
+}

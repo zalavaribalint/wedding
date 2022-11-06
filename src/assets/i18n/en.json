@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "home": "Home",
+    "church": "Church",
+    "civil": "Civil",
+    "accommodation": "Accommodation"
+  },
+  "home": {
+    "quote": {
+      "line1": "Sometimes all you need is a hug",
+      "line2": "from the right person and all your stress",
+      "line3": "will melt away.",
+      "line4": "",
+      "author": "Unknown"
+    }
+  }
+}
