@@ -43,6 +43,10 @@
   left: 10px;
 }
 
+.title-box {
+  margin-top: 10px !important;
+}
+
 .title {
   font-family: $title-font;
   font-size: 5em;
@@ -60,7 +64,7 @@
 .language-selector {
   position: absolute;
   top: 3px;
-  right: 3px;
+  right: 15px;
 }
 
 .language-selector-button {
