@@ -75,6 +75,22 @@
   cursor: pointer;
 }
 
+.date {
+  position: fixed;
+  top: 75px;
+  right: 50px;
+  font-family: $menu-font;
+  font-size: 2rem;
+}
+
+.date-small {
+  position: fixed;
+  top: 70px;
+  right: 15px;
+  font-family: $menu-font;
+  font-size: 1.5rem;
+}
+
 //
 a {
   text-decoration: none;
