@@ -1,9 +1,16 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
+import { ImageSliderDataResolver } from '@core/resolver';
 
 const routes: Routes = [
-  { path: 'home', component: HomeComponent },
+  {
+    path: 'home',
+    component: HomeComponent,
+    resolve: {
+      imageSliderData: ImageSliderDataResolver,
+    },
+  },
   {
     path: 'church-wedding',
     loadChildren: () => import('./church-wedding/church-wedding.module').then((m) => m.ChurchWeddingModule),
