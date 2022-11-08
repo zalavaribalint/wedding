@@ -1,17 +1,14 @@
-import {Component, Input, OnInit} from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-simple-block',
   templateUrl: './simple-block.component.html',
-  styleUrls: ['./simple-block.component.scss']
+  styleUrls: ['./simple-block.component.scss'],
 })
 export class SimpleBlockComponent implements OnInit {
-
   @Input() centerAlign = true;
 
-  constructor() { }
+  constructor() {}
 
-  ngOnInit(): void {
-  }
-
+  ngOnInit(): void {}
 }

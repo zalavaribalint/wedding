@@ -8,9 +8,8 @@ describe('SimpleBlockComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ SimpleBlockComponent ]
-    })
-    .compileComponents();
+      declarations: [SimpleBlockComponent],
+    }).compileComponents();
   });
 
   beforeEach(() => {
