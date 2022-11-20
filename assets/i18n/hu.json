@@ -12,6 +12,81 @@
       "line3": "Mi megpróbálunk csendben boldogok lenni,",
       "line4": "Lelkünk mélyén őszintén igazán szeretni.",
       "author": "Stendhal"
+    },
+    "block1": {
+      "line1": "Sok szeretettel köszöntünk az esküvői honlapunkon!",
+      "line2": "Azért hoztuk létre ezt az oldalt, hogy több információt, hasznos tudnivalót meg tudjunk osztani Veletek a nagy nappal kapcsolatban!",
+      "line3": "Külön menüpontokba szedtük az egyházi és polgári szertartás részleteit, ismertetjük a parkolási lehetőségeket és azt, hogyan és milyen szállást tudtok a helyszínen foglalni.",
+      "line4": "De ne szaladjunk ennyire előre. \uD83D\uDE42 Mesélünk kicsit a kezdetekről."
+    },
+    "block2": {
+      "line1": "2021 szilvesztere egy igazán emlékezetes ünnep volt számunkra, nem sokkal éjfél előtt volt az eljegyzésünk. A 2022-es év elejétől gondolkodunk azon, milyen is legyen az esküvőnk, kezdve a helyszíntől egészen a legapróbb részletekig.",
+      "line2": "Az esküvő komolyabb szervezésének kezdete idén tavaszra tehető, mikor is elkészültek az eljegyzési fotóink, melyek közül a kedvenceinket mutatjuk meg Nektek is itt a honlapon.",
+      "line3": "Az elmúlt években mindennapjainkat mind a ketten Pécsett töltöttük, így egyértelmű volt számunkra, hogy ehhez a városhoz közeli helyszínt keressünk magunknak. Így nemcsak könnyebben tudtuk/tudjuk intézni az esküvő ügyeit, de sikerült egy számunkra másik nagyon fontos szempontnak is megfelelő helyet találni, vagyis olyat, amely természetközeli és elég csendes.",
+      "line4": "Ez a helyszín Szigetvárhoz közel található és minden szempontból megfelelt a mi elvárásainknak.",
+      "line5": "Az időpont tekintetében fontos volt számunkra, hogy ne legyen se túl hideg, se túl meleg, így esett áprilisra a választás.",
+      "line6": "Ahhoz hogy a lehető legjobban sikerüljön a nagy nap, szerettünk volna profi segítséget kérni, ezért felfogadtunk egy esküvőszervezőt, aki nemcsak végigkísérte a szervezés folyamatát, hanem a nagy napon a ceremóniamesterünk is ő lesz.",
+      "line7": "Azonban közületek is sokan voltak, akik segítettek és segítenek, a szervezésben, például fotós ajánlásával, a ruha kiválasztásában, különböző ötletekkel vagy a honlap elkészítésében.",
+      "line8": "Most csak a teljesség igénye nélkül soroltunk fel pár dolgot, amiben nagy segítséget adtatok. Ezúton is nagyon köszönjük Nektek!"
+    },
+    "block3": {
+      "line1": "Mielőtt belevágnánk a nagy nap menetének ismertetésébe, még pár dolgot szeretnénk, ha figyelembe vennétek, mielőtt elindultok az esküvőnkre.",
+      "line2": "Nem szeretnénk senkit sem korlátolni abban, hogy mit csináljon, vagy viseljen az esküvőn, hiszen szeretnénk, hogy mindenki a lehető legjobban érezze magát.",
+      "line3": "Azonban arra szeretnénk megkérni, elsősorban a lányokat/hölgyeket, hogy a teljesen fehér, illetve a teljesen fekete ruhaviseletet, ha lehet, hanyagoljátok.",
+      "line4": "Ezen kívül, arra kérünk Benneteket, hogy számunkra a leghasznosabb, és legegyszerűbb ajándékot válasszátok nászajándékoként, ami belefér egy borítékba."
+    }
+  },
+  "church": {
+    "block1": {
+      "line1": "A templomi szertartás előtt, amennyiben szeretnétek, alkalmatok lesz elfoglalni a szobátokat a Pincészetben, kávézni vagy csak kicsit lepihenni, mielőtt a templom felé vennétek az irányt.",
+      "line2": "Amennyiben nem találkozunk az Ebner Pincészetben az egyházi szertartás előtt, várunk Benneteket Szigetváron a Szent Rókus templomban. A katolikus szentmise 16 órakor kezdődik és körülbelül 50 perces lesz. A templomban az oltárral szemben, illetve annak jobb és bal oldalán is helyet lehet majd foglalni, szóval jut hely bőven mindenkinek. \uD83D\uDE09",
+      "line3": "A templom, ahogy a képen is látható, egy szép, tágas téren helyezkedik el, így a kicsi gyerekekkel lehetőség adódik közvetlenül a templom mellett kellemesen eltölteni az időt, ha esetleg nem tudják kivárni a szertartás végét.",
+      "line4": "A szentmise után sem kell majd sietnünk, lesz lehetőség a templom előtt fotózkodni. Kérjük, hogy rizs- vagy sziromszórással senki ne készüljön a templomon belül vagy azon kívül.",
+      "line5": "A következő pár sorban szeretnénk veletek ismertetni a parkolási lehetőségeket, majd a templom történetét, melyet mi nagyon érdekesnek találtunk.\uD83D\uDE0D"
+    },
+    "block2": {
+      "line1": "Pontos cím: 7900 Szigetvár, Zrínyi tér 9.",
+      "line2": "Parkolási lehetőségek:",
+      "line3": "Több parkolási lehetőség közül is lehet választani. A templom közelében, a Zárda utcában egy nagyobb parkoló található, amely hétvégén, tapasztalatunk alapján, általában nem túl zsúfolt, így sokan elfértek majd autóitokkal.",
+      "line4": "Ezen kívül az Olay Lajos és a József Attila utca sarkán is található egy nagyobb férőhellyel rendelkező parkoló, de a József Attila utca bizonyos szakaszán az út szélén is meg szabad állni."
+    },
+    "block3": {
+      "line1": "Ez a katolikus templom az egyik a két, Szigetváron található dzsámi közül. A templom a Zrínyi téren található, amely épület több szempontból sem mindennapi. Az alaprajza is eltér a megszokottól, szamárhátíves ablakai pedig utalnak a keleti múltjára. Szigetvár elfoglalását követően Müezzinzáde Ali kezdte építtetni a templomot, akkor még dzsámit. Ali pasa elesett 1571-ben, de a dzsámit tovább építették és 1589-re elkészült. Ezt követően száz évig, egészen Szigetvár visszafoglalásáig muszlim hitélet zajlott benne.",
+      "line2": "Ezután a dzsámit előbb lőportárként használták, majd 1788-ban katolikus templommá szentelték fel Szent Rókus tiszteletére, és kívül-belül átalakították. Az épület mellett levő minaret 1715-ben semmisült meg, mikor villám csapott belé. Az előcsarnokot és a négyszöglet alaprajzú épületet záró kupolát is elbontották, a szamárhátíves ablakokat pedig barokkos jellegűvé alakították át.",
+      "line3": "A templomot az 1980-as években újították fel, amely során megtartották a török stílusjegyeket, ennek köszönhetően felismerhetők a szamárhátíves ablakok, a templombelsőben pedig a sarkokban sztalaktit díszítések.",
+      "line4": "A kupolában egy barokk stílusú műalkotás, Dorffmeister István freskója látható. A szenteltvíztartó pedig az egykori török fürdőből származik."
+    }
+  },
+  "civil": {
+    "block1": {
+      "line1": "Az egyházi szertartás után a mozsgói Ebner Pincészet felé vesszük az irányt.",
+      "line2": "Az utazási idő előreláthatólag nem lesz több 10 percnél. Érkezés után bőven lesz idő felfrissülni, fogyasztani enni-és innivalókat, majd elfoglalni a helyeteket. A polgári szertartás 17:30 után fog kezdődni a Pincészet fedett teraszán. Erről a teraszról lehetőség van megcsodálni a Pincészet meletti gyönyörű tájat, mely minket azonnal elvarázsolt.\uD83D\uDC95",
+      "line3": "A szertartást Mozsgó anyakönyvvezetője fogja levezetni. Az igenek és a gratulációk után lesz lehetőség fotózkodni. Mindezek után helyet tudunk foglalni a teremben, ahol a vacsorát felszolgálják, utána pedig kezdetét veheti a buli, ami hajnali 4-ig fog tartani. \uD83E\uDD73"
+    },
+    "block2": {
+      "line1": "A templomi szertartás után remélhetőleg együtt tudunk majd elindulni Mozsgó felé, mégis szeretnénk itt is már ismertetni Veletek az útvonalat. Ha esetleg elszakadnánk egymástól, akkor is tudja mindenki, hová kell érkezni. \uD83D\uDE98",
+      "line2": "Pontos cím: 7932 Mozsgó, 680/4 hrsz.",
+      "line3": "Parkolási lehetőség pedig az Ebner Pincészet saját parkolójában van, melyen kifejezetten nagy, így mindenki gond nélkül le fog tudni parkolni."
+    }
+  },
+  "accommodation": {
+    "main": {
+      "line1": "A következőkben szeretnénk részletezni Nektek, pontosan milyen szálláslehetőségetek lesz a helyszínen. Összesen 3 épület található a Pincészetnél. Ezek közül 2 panzió, illetve a vacsora és lakodalom helyszínének épületének emeletén is vannak szobák.",
+      "line2": "A Pincészettől kapott tanács alapján telefonon keressétek őket (az elérhetőségeket lentebb leírtuk Nektek), ne pedig más szállásfoglalási oldalakon próbáljatok szobát foglalni. Annak érdekében, hogy mindenképp sikerüljön szobát foglalnotok a helyszínen, legkésőbb január végéig jelezni kell számukra.",
+      "line3": "Ezen kívül ajánljuk, hogy aki korábban tervez nyugovóra térni, az egyik panziót próbálja meg választani, ahova nem hallatszódik be a buli zaja már, viszont egy pillanat alatt oda lehet érni a szobákba.",
+      "line4": "Jó, ha tudjátok, hogy másnap bőséges, vidékies reggeli vár Rátok, mely beletartozik a szoba árába, és egészen 12 óráig van lehetőségetek majd kijelentkezni."
+    },
+    "building1": {
+      "name": "Nagy épület",
+      "description": "Ennek az épületnek a földszintén lesz a vacsora és buli, az emeletén pedig összesen 12 szoba található, melyek közül 11 rendelkezik külön erkéllyel. Szinte minden szobában található LCD tévé, 4 szoba klimatizált. Ezen szobák közül az egyiket számunkra biztosítja a helyszín. A legtöbb szobában egy darab franciaágy van, de vannak köztük olyan szobák, ahol van még plusz egy darab egy személyes ágy. Illetve van olyan szoba is, ahol két darab franciaágy van. A Wi-Fi használat ingyenes."
+    },
+    "building2": {
+      "name": "Csacsiház Panzió",
+      "description": "A Csacsiház Panzió 2013-ban épült, a Nagy épülethez hasonló stílust képvisel. 7 szobában, összesen 16 vendéget tudnak elszállásolni főként franciaágyakon, illetve egyik szobában van 1 franciaágy és egy emeletes ágy. Minden szobában külön fürdőszoba található. 2 szoba is egy társalgóból nyílik. Valamennyi szoba itt is televízióval felszerelt, mely a főépülethez hasonlóan szintén LCD. Ezekhez a szobákhoz erkély nem tartozik, az udvaron lehetőség van kinti elfoglaltságot csinálni. A Wi-Fi itt is ingyenes."
+    },
+    "building3": {
+      "name": "Csacsiház II. Panzió",
+      "description": "Ez az épület 2015-től bővíti a Csacsiház Panzió szobakínálatát. Összesen 3 szoba és 1 apartman került kialakításra ebben az épületben. Az összes szoba franciaágyas, míg az apartmanban egy plusz kihúzható kanapé is található. Itt van még konyha, mely egybe van a társalgóval. Az épület mellett nagy, fűvel borított terület található."
     }
   }
 }

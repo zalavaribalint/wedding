@@ -12,6 +12,81 @@
       "line3": "will melt away.",
       "line4": "",
       "author": "Unknown"
+    },
+    "block1": {
+      "line1": "Welcome to our wedding website!",
+      "line2": "We have created this page to share useful information about our big day with you!",
+      "line3": "We've put together different sections with details about the church and civil ceremony, parking options and how and what kind of accommodation you can book on site.",
+      "line4": "But let's not get ahead of ourselves. \uD83D\uDE42 We'll tell you a bit about the beginning."
+    },
+    "block2": {
+      "line1": "New Year's Eve 2021 was a truly memorable event for us, we got engaged just before midnight. Since the beginning of 2022, we have been thinking about what our wedding should be like, from the venue to the smallest details.",
+      "line2": "The serious planning of the wedding started in spring this year, when the engagement photos were taken, and we're sharing our favorite ones with you here on the website.",
+      "line3": "In the past years we both spent our everyday life in Pécs, so it was clear for us to look for a location close to this city. This way we can not only manage the wedding more easily, but we also managed to find a place that meets another very important need of ours, which is to be close to nature and be quiet at the same time.",
+      "line4": "This location is close to Szigetvár and meets all of our expectations.",
+      "line5": "As for the date, it is important for us that it is neither too cold nor too hot, so April was the right choice.",
+      "line6": "To make the big day as memorable as possible, we wanted to have professional help, so we hired a wedding organizer who not only guides us through the whole process, but also became our master of ceremonies on the big day.",
+      "line7": "However, there are also many of you who helped and still are helping, for example by recommending a photographer, helping to choose the dress, giving ideas or contributing to the website.",
+      "line8": "We've just listed a few things that you have helped us with. Thank you very much!"
+    },
+    "block3": {
+      "line1": "Before we get into the details of the big day, there are a few things we'd like you to keep in mind before you head off to your wedding.",
+      "line2": "We don't want to restrict anyone in what they can do or wear to the wedding, as we want everyone to have the best time possible.",
+      "line3": "However, we would like to ask you, especially the girls/ladies, to avoid wearing all-white or all-black if possible.",
+      "line4": "In addition, we would like to ask you to choose the most useful and simplest gift as a wedding present, which will fit in an envelope."
+    }
+  },
+  "church": {
+    "block1": {
+      "line1": "Before the church ceremony, if you wish, you will have the opportunity to check into your room at the Winery, have a coffee or just relax a bit before heading to the church.",
+      "line2": "If we will not meet you at Ebner Winery before the church ceremony, we will be waiting for you in Szigetvár at St. Rókus Church. The catholic liturgy will start at 4 pm and will last about 50 minutes. Seating will be available in front of the altar and to the left and right of the altar, so there will be plenty of room for everyone. \uD83D\uDE09",
+      "line3": "The church, as you can see in the picture, is located in a nice, wide square, so it is possible to spend some pleasant time with small children right next to the church, if they can't wait for the ceremony to end.",
+      "line4": "There will be no need to hurry after the Holy Liturgy, there will be a photo opportunity in front of the church. Please no one throw rice or petals inside or outside the church.",
+      "line5": "In the next few lines we would like to tell you about the parking possibilities and then the history of the church, which we found very interesting \uD83D\uDE0D"
+    },
+    "block2": {
+      "line1": "Address: 7900 Szigetvár, Zrínyi square 9.",
+      "line2": "Parking options:",
+      "line3": "There are several parking options to choose from. There is a large car park on Zárda Street near the church, which in our experience is usually not too crowded on weekends, so you will find plenty of space for your car.",
+      "line4": "In addition, there is a large parking lot at the corner of Olay Lajos and József Attila streets, but parking is also allowed on the side of the road on certain sections of József Attila street."
+    },
+    "block3": {
+      "line1": "This Catholic church is one of the two mosques in Szigetvár. The church is located on Zrínyi Square, a building that is in many ways not ordinary. Its layout is different from the usual, and its arched windows are a reference to its oriental past. After the conquest of Szigetvár, Müezzinzade Ali began to build the church, then a mosque. Ali Pasha was killed in 1571, but the mosque continued to be built and was completed by 1589. For a hundred years afterwards, until the recapture of Szigetvár, it was a Muslim place of worship.",
+      "line2": "The mosque was first used as a gunpowder storage, then in 1788 it was consecrated as a Catholic church in honor of St. Rocco and altered inside and out. The minaret next to the building was destroyed by lightning in 1715. Both the entrance hall and the dome were dismantled and the arched windows were converted into baroque ones.",
+      "line3": "The church was renovated in the 1980s, retaining the Turkish style features, which include arched windows and stalactite decorations in the corners of the interior.",
+      "line4": "In the dome there is a Baroque fresco by István Dorffmeister. The font is from the former Turkish baths."
+    }
+  },
+  "civil": {
+    "block1": {
+      "line1": "After the church ceremony, we head to the Ebner Winery in Mozsgó.",
+      "line2": "Travel time is expected to be no more than 10 minutes. Upon arrival, there will be plenty of time to freshen up, to eat and drink, and then take your seats. The civil ceremony will begin after 17:30 on the covered terrace of the Winery. On this terrace you will have the opportunity to enjoy the beautiful scenery around the Winery, which we were immediately charmed by.\uD83D\uDC95",
+      "line3": "The ceremony will be conducted by the registrar of Mozsgó. There will be an opportunity for a photo session after the \"yes\" and congratulations. After this, we can take our seats in the hall where dinner will be served, and then the party can begin, which will last until 4am. \uD83E\uDD73"
+    },
+    "block2": {
+      "line1": "After the church ceremony we will hopefully be able to set off together towards Mozsgó, but we would like to give you an overview of the route. In case we get separated from each other, we will all know where to go. \uD83D\uDE98",
+      "line2": "Address: 7932 Mozsgó, parcel 680/4.",
+      "line3": "Parking is available in the Ebner Winery's own car park, which is particularly large, so everyone will be able to park without any problems."
+    }
+  },
+  "accommodation": {
+    "main": {
+      "line1": "Below we would like to give you more details about exactly what accommodation you will have on site. In total there are 3 buildings at the Winery. Of these, 2 are guest houses and there are rooms on the first floor of the building where the dinner and wedding will take place.",
+      "line2": "On the advice of the Winery, contact them by phone (contact details below) rather than trying to book on other booking sites. In order to make sure you book a room on the spot, you must let them know by the end of January at the latest.",
+      "line3": "In addition, if you plan to retire early, try to stay in one of the guest houses, where the noise of the party is not so loud, but you can get to your room in a jiffy.",
+      "line4": "It's good to know that you'll have a hearty country breakfast the next day, included in the price of your room, and you'll have time until 12 noon to check out.."
+    },
+    "building1": {
+      "name": "Main building",
+      "description": "The dinner and party will take place on the ground floor of this building, while upstairs there are 12 rooms in total, 11 of which have a balcony. Almost all rooms have an LCD TV, 4 rooms are air-conditioned. One of these rooms will be provided for us by the venue. Most rooms have one double bed, but some rooms have an extra single bed. There are also rooms with two double beds. Wi-Fi is free of charge."
+    },
+    "building2": {
+      "name": "Csacsiház guest house",
+      "description": "The Csacsiház guest house was built in 2013 and is similar in style to the main building. It has 7 rooms with a total capacity of 16 guests, mainly with double beds, and one room with 1 double bed and 1 bunk bed. Each room has its own bathroom. 2 rooms open from a lounge. All the rooms are equipped with a TV, which is also LCD, as in the main building. These rooms do not have a balcony, but there is a possibility to spend time outside in the courtyard. Wi-Fi is also free of charge here."
+    },
+    "building3": {
+      "name": "Csacsiház II. guest house",
+      "description": "This building is expanding the room offer of the place from 2015. A total of 3 rooms and 1 apartment have been created in this building. All rooms have double beds, while the apartment has an extra pull-out sofa bed. There is also a kitchen, which is shared with the lounge. There is a large grassed area next to the building."
     }
   }
 }
