@@ -68,5 +68,25 @@
       "line2": "Pontos cím: 7932 Mozsgó, 680/4 hrsz.",
       "line3": "Parkolási lehetőség pedig az Ebner Pincészet saját parkolójában van, melyen kifejezetten nagy, így mindenki gond nélkül le fog tudni parkolni."
     }
+  },
+  "accommodation": {
+    "main": {
+      "line1": "A következőkben szeretnénk részletezni Nektek, pontosan milyen szálláslehetőségetek lesz a helyszínen. Összesen 3 épület található a Pincészetnél. Ezek közül 2 panzió, illetve a vacsora és lakodalom helyszínének épületének emeletén is vannak szobák.",
+      "line2": "A Pincészettől kapott tanács alapján telefonon keressétek őket (az elérhetőségeket lentebb leírtuk Nektek), ne pedig más szállásfoglalási oldalakon próbáljatok szobát foglalni. Annak érdekében, hogy mindenképp sikerüljön szobát foglalnotok a helyszínen, legkésőbb január végéig jelezni kell számukra.",
+      "line3": "Ezen kívül ajánljuk, hogy aki korábban tervez nyugovóra térni, az egyik panziót próbálja meg választani, ahova nem hallatszódik be a buli zaja már, viszont egy pillanat alatt oda lehet érni a szobákba.",
+      "line4": "Jó, ha tudjátok, hogy másnap bőséges, vidékies reggeli vár Rátok, mely beletartozik a szoba árába, és egészen 12 óráig van lehetőségetek majd kijelentkezni."
+    },
+    "building1": {
+      "name": "Nagy épület",
+      "description": "Ennek az épületnek a földszintén lesz a vacsora és buli, az emeletén pedig összesen 12 szoba található, melyek közül 11 rendelkezik külön erkéllyel. Szinte minden szobában található LCD tévé, 4 szoba klimatizált. Ezen szobák közül az egyiket számunkra biztosítja a helyszín. A legtöbb szobában egy darab franciaágy van, de vannak köztük olyan szobák, ahol van még plusz egy darab egy személyes ágy. Illetve van olyan szoba is, ahol két darab franciaágy van. A Wi-Fi használat ingyenes."
+    },
+    "building2": {
+      "name": "Csacsiház Panzió",
+      "description": "A Csacsiház Panzió 2013-ban épült, a Nagy épülethez hasonló stílust képvisel. 7 szobában, összesen 16 vendéget tudnak elszállásolni főként franciaágyakon, illetve egyik szobában van 1 franciaágy és egy emeletes ágy. Minden szobában külön fürdőszoba található. 2 szoba is egy társalgóból nyílik. Valamennyi szoba itt is televízióval felszerelt, mely a főépülethez hasonlóan szintén LCD. Ezekhez a szobákhoz erkély nem tartozik, az udvaron lehetőség van kinti elfoglaltságot csinálni. A Wi-Fi itt is ingyenes."
+    },
+    "building3": {
+      "name": "Csacsiház II. Panzió",
+      "description": "Ez az épület 2015-től bővíti a Csacsiház Panzió szobakínálatát. Összesen 3 szoba és 1 apartman került kialakításra ebben az épületben. Az összes szoba franciaágyas, míg az apartmanban egy plusz kihúzható kanapé is található. Itt van még konyha, mely egybe van a társalgóval. Az épület mellett nagy, fűvel borított terület található."
+    }
   }
 }

@@ -68,5 +68,25 @@
       "line2": "Address: 7932 Mozsgó, parcel 680/4.",
       "line3": "Parking is available in the Ebner Winery's own car park, which is particularly large, so everyone will be able to park without any problems."
     }
+  },
+  "accommodation": {
+    "main": {
+      "line1": "Below we would like to give you more details about exactly what accommodation you will have on site. In total there are 3 buildings at the Winery. Of these, 2 are guest houses and there are rooms on the first floor of the building where the dinner and wedding will take place.",
+      "line2": "On the advice of the Winery, contact them by phone (contact details below) rather than trying to book on other booking sites. In order to make sure you book a room on the spot, you must let them know by the end of January at the latest.",
+      "line3": "In addition, if you plan to retire early, try to stay in one of the guest houses, where the noise of the party is not so loud, but you can get to your room in a jiffy.",
+      "line4": "It's good to know that you'll have a hearty country breakfast the next day, included in the price of your room, and you'll have time until 12 noon to check out.."
+    },
+    "building1": {
+      "name": "Main building",
+      "description": "The dinner and party will take place on the ground floor of this building, while upstairs there are 12 rooms in total, 11 of which have a balcony. Almost all rooms have an LCD TV, 4 rooms are air-conditioned. One of these rooms will be provided for us by the venue. Most rooms have one double bed, but some rooms have an extra single bed. There are also rooms with two double beds. Wi-Fi is free of charge."
+    },
+    "building2": {
+      "name": "Csacsiház guest house",
+      "description": "The Csacsiház guest house was built in 2013 and is similar in style to the main building. It has 7 rooms with a total capacity of 16 guests, mainly with double beds, and one room with 1 double bed and 1 bunk bed. Each room has its own bathroom. 2 rooms open from a lounge. All the rooms are equipped with a TV, which is also LCD, as in the main building. These rooms do not have a balcony, but there is a possibility to spend time outside in the courtyard. Wi-Fi is also free of charge here."
+    },
+    "building3": {
+      "name": "Csacsiház II. guest house",
+      "description": "This building is expanding the room offer of the place from 2015. A total of 3 rooms and 1 apartment have been created in this building. All rooms have double beds, while the apartment has an extra pull-out sofa bed. There is also a kitchen, which is shared with the lounge. There is a large grassed area next to the building."
+    }
   }
 }
