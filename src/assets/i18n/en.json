@@ -35,5 +35,26 @@
       "line3": "However, we would like to ask you, especially the girls/ladies, to avoid wearing all-white or all-black if possible.",
       "line4": "In addition, we would like to ask you to choose the most useful and simplest gift as a wedding present, which will fit in an envelope."
     }
+  },
+  "church": {
+    "block1": {
+      "line1": "Before the church ceremony, if you wish, you will have the opportunity to check into your room at the Winery, have a coffee or just relax a bit before heading to the church.",
+      "line2": "If we will not meet you at Ebner Winery before the church ceremony, we will be waiting for you in Szigetvár at St. Rókus Church. The catholic liturgy will start at 4 pm and will last about 50 minutes. Seating will be available in front of the altar and to the left and right of the altar, so there will be plenty of room for everyone. \uD83D\uDE09",
+      "line3": "The church, as you can see in the picture, is located in a nice, wide square, so it is possible to spend some pleasant time with small children right next to the church, if they can't wait for the ceremony to end.",
+      "line4": "There will be no need to hurry after the Holy Liturgy, there will be a photo opportunity in front of the church. Please no one throw rice or petals inside or outside the church.",
+      "line5": "In the next few lines we would like to tell you about the parking possibilities and then the history of the church, which we found very interesting \uD83D\uDE0D"
+    },
+    "block2": {
+      "line1": "Address: 7900 Szigetvár, Zrínyi square 9.",
+      "line2": "Parking options:",
+      "line3": "There are several parking options to choose from. There is a large car park on Zárda Street near the church, which in our experience is usually not too crowded on weekends, so you will find plenty of space for your car.",
+      "line4": "In addition, there is a large parking lot at the corner of Olay Lajos and József Attila streets, but parking is also allowed on the side of the road on certain sections of József Attila street."
+    },
+    "block3": {
+      "line1": "This Catholic church is one of the two mosques in Szigetvár. The church is located on Zrínyi Square, a building that is in many ways not ordinary. Its layout is different from the usual, and its arched windows are a reference to its oriental past. After the conquest of Szigetvár, Müezzinzade Ali began to build the church, then a mosque. Ali Pasha was killed in 1571, but the mosque continued to be built and was completed by 1589. For a hundred years afterwards, until the recapture of Szigetvár, it was a Muslim place of worship.",
+      "line2": "The mosque was first used as a gunpowder storage, then in 1788 it was consecrated as a Catholic church in honor of St. Rocco and altered inside and out. The minaret next to the building was destroyed by lightning in 1715. Both the entrance hall and the dome were dismantled and the arched windows were converted into baroque ones.",
+      "line3": "The church was renovated in the 1980s, retaining the Turkish style features, which include arched windows and stalactite decorations in the corners of the interior.",
+      "line4": "In the dome there is a Baroque fresco by István Dorffmeister. The font is from the former Turkish baths."
+    }
   }
 }

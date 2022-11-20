@@ -35,5 +35,26 @@
       "line3": "Azonban arra szeretnénk megkérni, elsősorban a lányokat/hölgyeket, hogy a teljesen fehér, illetve a teljesen fekete ruhaviseletet, ha lehet, hanyagoljátok.",
       "line4": "Ezen kívül, arra kérünk Benneteket, hogy számunkra a leghasznosabb, és legegyszerűbb ajándékot válasszátok nászajándékoként, ami belefér egy borítékba."
     }
+  },
+  "church": {
+    "block1": {
+      "line1": "A templomi szertartás előtt, amennyiben szeretnétek, alkalmatok lesz elfoglalni a szobátokat a Pincészetben, kávézni vagy csak kicsit lepihenni, mielőtt a templom felé vennétek az irányt.",
+      "line2": "Amennyiben nem találkozunk az Ebner Pincészetben az egyházi szertartás előtt, várunk Benneteket Szigetváron a Szent Rókus templomban. A katolikus szentmise 16 órakor kezdődik és körülbelül 50 perces lesz. A templomban az oltárral szemben, illetve annak jobb és bal oldalán is helyet lehet majd foglalni, szóval jut hely bőven mindenkinek. \uD83D\uDE09",
+      "line3": "A templom, ahogy a képen is látható, egy szép, tágas téren helyezkedik el, így a kicsi gyerekekkel lehetőség adódik közvetlenül a templom mellett kellemesen eltölteni az időt, ha esetleg nem tudják kivárni a szertartás végét.",
+      "line4": "A szentmise után sem kell majd sietnünk, lesz lehetőség a templom előtt fotózkodni. Kérjük, hogy rizs- vagy sziromszórással senki ne készüljön a templomon belül vagy azon kívül.",
+      "line5": "A következő pár sorban szeretnénk veletek ismertetni a parkolási lehetőségeket, majd a templom történetét, melyet mi nagyon érdekesnek találtunk.\uD83D\uDE0D"
+    },
+    "block2": {
+      "line1": "Pontos cím: 7900 Szigetvár, Zrínyi tér 9.",
+      "line2": "Parkolási lehetőségek:",
+      "line3": "Több parkolási lehetőség közül is lehet választani. A templom közelében, a Zárda utcában egy nagyobb parkoló található, amely hétvégén, tapasztalatunk alapján, általában nem túl zsúfolt, így sokan elfértek majd autóitokkal.",
+      "line4": "Ezen kívül az Olay Lajos és a József Attila utca sarkán is található egy nagyobb férőhellyel rendelkező parkoló, de a József Attila utca bizonyos szakaszán az út szélén is meg szabad állni."
+    },
+    "block3": {
+      "line1": "Ez a katolikus templom az egyik a két, Szigetváron található dzsámi közül. A templom a Zrínyi téren található, amely épület több szempontból sem mindennapi. Az alaprajza is eltér a megszokottól, szamárhátíves ablakai pedig utalnak a keleti múltjára. Szigetvár elfoglalását követően Müezzinzáde Ali kezdte építtetni a templomot, akkor még dzsámit. Ali pasa elesett 1571-ben, de a dzsámit tovább építették és 1589-re elkészült. Ezt követően száz évig, egészen Szigetvár visszafoglalásáig muszlim hitélet zajlott benne.",
+      "line2": "Ezután a dzsámit előbb lőportárként használták, majd 1788-ban katolikus templommá szentelték fel Szent Rókus tiszteletére, és kívül-belül átalakították. Az épület mellett levő minaret 1715-ben semmisült meg, mikor villám csapott belé. Az előcsarnokot és a négyszöglet alaprajzú épületet záró kupolát is elbontották, a szamárhátíves ablakokat pedig barokkos jellegűvé alakították át.",
+      "line3": "A templomot az 1980-as években újították fel, amely során megtartották a török stílusjegyeket, ennek köszönhetően felismerhetők a szamárhátíves ablakok, a templombelsőben pedig a sarkokban sztalaktit díszítések.",
+      "line4": "A kupolában egy barokk stílusú műalkotás, Dorffmeister István freskója látható. A szenteltvíztartó pedig az egykori török fürdőből származik."
+    }
   }
 }
