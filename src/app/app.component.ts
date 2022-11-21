@@ -9,6 +9,9 @@ import { TranslateService } from '@ngx-translate/core';
 export class AppComponent {
   constructor(private translate: TranslateService) {
     translate.setDefaultLang('hu');
-    translate.use(navigator.language);
+    const langCode = navigator.language?.split('-')?.[0];
+    if (langCode) {
+      translate.use(langCode);
+    }
   }
 }
