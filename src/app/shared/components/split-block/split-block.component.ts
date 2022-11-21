@@ -1,14 +1,11 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { ChangeDetectionStrategy, Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-split-block',
   templateUrl: './split-block.component.html',
   styleUrls: ['./split-block.component.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class SplitBlockComponent implements OnInit {
+export class SplitBlockComponent {
   @Input() centerAlign = true;
-
-  constructor() {}
-
-  ngOnInit(): void {}
 }

@@ -3,7 +3,6 @@ import { AfterViewInit, Directive, TemplateRef, ViewContainerRef } from '@angula
 @Directive({
   selector: '[appElementVisible]',
 })
-
 export class ElementVisibleDirective implements AfterViewInit {
   constructor(private vcRef: ViewContainerRef, private tplRef: TemplateRef<any>) {}
 

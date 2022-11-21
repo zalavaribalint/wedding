@@ -1,14 +1,11 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { ChangeDetectionStrategy, Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-simple-block',
   templateUrl: './simple-block.component.html',
   styleUrls: ['./simple-block.component.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class SimpleBlockComponent implements OnInit {
+export class SimpleBlockComponent {
   @Input() centerAlign = true;
-
-  constructor() {}
-
-  ngOnInit(): void {}
 }
