@@ -1,24 +1,20 @@
-import {Component, OnInit} from '@angular/core';
-import {TranslateService} from "@ngx-translate/core";
+import { ChangeDetectionStrategy, Component } from '@angular/core';
+import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-menu',
   templateUrl: './menu.component.html',
-  styleUrls: ['./menu.component.scss']
+  styleUrls: ['./menu.component.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class MenuComponent implements OnInit {
-
+export class MenuComponent {
   private translate: TranslateService;
 
   constructor(translate: TranslateService) {
     this.translate = translate;
   }
 
-  ngOnInit(): void {
-  }
-
   useLanguage(language: string): void {
     this.translate.use(language);
   }
-
 }

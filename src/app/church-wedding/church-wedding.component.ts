@@ -1,15 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { ChangeDetectionStrategy, Component } from '@angular/core';
 
 @Component({
   selector: 'app-church-wedding',
   templateUrl: './church-wedding.component.html',
-  styleUrls: ['./church-wedding.component.scss']
+  styleUrls: ['./church-wedding.component.scss'],
+  changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class ChurchWeddingComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
-}
+export class ChurchWeddingComponent {}

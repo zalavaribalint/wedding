@@ -9,28 +9,29 @@ html, body {
 
 @font-face {
   font-family: "ComforterBrush";
-  src: local("ComforterBrush"), url(./app/fonts/ComforterBrush-Regular.ttf) format("truetype");
+  src: local("ComforterBrush"), url(/assets/fonts/ComforterBrush-Regular.ttf) format("truetype");
 }
 
 @font-face {
   font-family: "LibreBaskerville";
-  src: local("LibreBaskerville"), url(./app/fonts/LibreBaskerville-Regular.ttf) format("truetype");
+  src: local("LibreBaskerville"), url(/assets/fonts/LibreBaskerville-Regular.ttf) format("truetype");
 }
 
 @font-face {
   font-family: "FleurDeLeah";
-  src: local("LibreBaskerville"), url(./app/fonts/FleurDeLeah-Regular.ttf) format("truetype");
+  src: local("LibreBaskerville"), url(/assets/fonts/FleurDeLeah-Regular.ttf) format("truetype");
 }
 
 @font-face {
   font-family: "GreatVibes";
-  src: local("GreatVibes"), url(./app/fonts/GreatVibes-Regular.ttf) format("truetype");
+  src: local("GreatVibes"), url(/assets/fonts/GreatVibes-Regular.ttf) format("truetype");
 }
 
 html, body {
   height: 100%;
   overflow-x: clip;
 }
+
 body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
