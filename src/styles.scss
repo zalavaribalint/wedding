@@ -27,6 +27,11 @@ html, body {
   src: local("GreatVibes"), url(/assets/fonts/GreatVibes-Regular.ttf) format("truetype");
 }
 
+@font-face {
+  font-family: "Twemoji";
+  src: local("Twemoji"), url(/assets/fonts/Twemoji.Mozilla.ttf) format("truetype");
+}
+
 html, body {
   height: 100%;
   overflow-x: clip;
