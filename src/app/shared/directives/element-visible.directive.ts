@@ -6,6 +6,8 @@ import { AfterViewInit, Directive, TemplateRef, ViewContainerRef } from '@angula
 export class ElementVisibleDirective implements AfterViewInit {
   constructor(private vcRef: ViewContainerRef, private tplRef: TemplateRef<any>) {}
 
+  isRendered = false;
+
   ngAfterViewInit() {
     const observedElement = this.vcRef.element.nativeElement.parentElement;
 
@@ -16,9 +18,13 @@ export class ElementVisibleDirective implements AfterViewInit {
   }
 
   renderContents(isIntersecting: boolean) {
+    if (this.isRendered) {
+      return;
+    }
     this.vcRef.clear();
 
     if (isIntersecting) {
+      this.isRendered = true;
       this.vcRef.createEmbeddedView(this.tplRef);
     }
   }
