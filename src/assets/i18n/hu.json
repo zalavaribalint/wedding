@@ -61,13 +61,13 @@
   "civil": {
     "block1": {
       "line1": "Az egyházi szertartás után a mozsgói Ebner Pincészet felé vesszük az irányt.",
-      "line2": "Az utazási idő előreláthatólag nem lesz több 10 percnél. Érkezés után bőven lesz idő felfrissülni, fogyasztani enni-és innivalókat, majd elfoglalni a helyeteket. A polgári szertartás 17:30 után fog kezdődni a Pincészet fedett teraszán. Erről a teraszról lehetőség van megcsodálni a Pincészet meletti gyönyörű tájat, mely minket azonnal elvarázsolt.\uD83D\uDC95",
+      "line2": "Az utazási idő előreláthatólag nem lesz több 10 percnél. Érkezés után bőven lesz idő felfrissülni, fogyasztani enni-és innivalókat, majd elfoglalni a helyeteket. A polgári szertartás 17:30 után fog kezdődni a Pincészet fedett teraszán. Erről a teraszról lehetőség van megcsodálni a Pincészet melletti gyönyörű tájat, mely minket azonnal elvarázsolt.\uD83D\uDC95",
       "line3": "A szertartást Mozsgó anyakönyvvezetője fogja levezetni. Az igenek és a gratulációk után lesz lehetőség fotózkodni. Mindezek után helyet tudunk foglalni a teremben, ahol a vacsorát felszolgálják, utána pedig kezdetét veheti a buli, ami hajnali 4-ig fog tartani. \uD83E\uDD73"
     },
     "block2": {
       "line1": "A templomi szertartás után remélhetőleg együtt tudunk majd elindulni Mozsgó felé, mégis szeretnénk itt is már ismertetni Veletek az útvonalat. Ha esetleg elszakadnánk egymástól, akkor is tudja mindenki, hová kell érkezni. \uD83D\uDE98",
       "line2": "Pontos cím: 7932 Mozsgó, 680/4 hrsz.",
-      "line3": "Parkolási lehetőség pedig az Ebner Pincészet saját parkolójában van, melyen kifejezetten nagy, így mindenki gond nélkül le fog tudni parkolni."
+      "line3": "Parkolási lehetőség pedig az Ebner Pincészet saját parkolójában van, mely kifejezetten nagy, így mindenki gond nélkül le fog tudni parkolni."
     }
   },
   "accommodation": {
@@ -79,7 +79,7 @@
     },
     "building1": {
       "name": "Nagy épület",
-      "description": "Ennek az épületnek a földszintén lesz a vacsora és buli, az emeletén pedig összesen 12 szoba található, melyek közül 11 rendelkezik külön erkéllyel. Szinte minden szobában található LCD tévé, 4 szoba klimatizált. Ezen szobák közül az egyiket számunkra biztosítja a helyszín. A legtöbb szobában egy darab franciaágy van, de vannak köztük olyan szobák, ahol van még plusz egy darab egy személyes ágy. Illetve van olyan szoba is, ahol két darab franciaágy van. A Wi-Fi használat ingyenes."
+      "description": "Ennek az épületnek a földszintén lesz a vacsora és a buli, az emeletén pedig összesen 12 szoba található, melyek közül 11 rendelkezik külön erkéllyel. Szinte minden szobában található LCD tévé, 4 szoba klimatizált. Ezen szobák közül az egyiket számunkra biztosítja a helyszín. A legtöbb szobában egy darab franciaágy van, de vannak köztük olyan szobák, ahol van még plusz egy darab egy személyes ágy. Illetve van olyan szoba is, ahol két darab franciaágy van. A Wi-Fi használat ingyenes."
     },
     "building2": {
       "name": "Csacsiház Panzió",
