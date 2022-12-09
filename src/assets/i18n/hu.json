@@ -73,9 +73,20 @@
   "accommodation": {
     "main": {
       "line1": "A következőkben szeretnénk részletezni Nektek, pontosan milyen szálláslehetőségetek lesz a helyszínen. Összesen 3 épület található a Pincészetnél. Ezek közül 2 panzió, illetve a vacsora és lakodalom helyszínének épületének emeletén is vannak szobák.",
-      "line2": "A Pincészettől kapott tanács alapján telefonon keressétek őket (az elérhetőségeket lentebb leírtuk Nektek), ne pedig más szállásfoglalási oldalakon próbáljatok szobát foglalni. Annak érdekében, hogy mindenképp sikerüljön szobát foglalnotok a helyszínen, legkésőbb január végéig jelezni kell számukra.",
+      "line2": "A Pincészettől kapott tanács alapján e-mailben keressétek őket, ne pedig más szállásfoglalási oldalakon próbáljatok szobát foglalni. Annak érdekében, hogy mindenképp sikerüljön szobát foglalnotok a helyszínen, legkésőbb január végéig jelezni kell számukra.",
       "line3": "Ezen kívül ajánljuk, hogy aki korábban tervez nyugovóra térni, az egyik panziót próbálja meg választani, ahova nem hallatszódik be a buli zaja már, viszont egy pillanat alatt oda lehet érni a szobákba.",
-      "line4": "Jó, ha tudjátok, hogy másnap bőséges, vidékies reggeli vár Rátok, mely beletartozik a szoba árába, és egészen 12 óráig van lehetőségetek majd kijelentkezni."
+      "line4": "Jó, ha tudjátok, hogy másnap bőséges, vidékies reggeli vár Rátok, mely beletartozik a szoba árába, és egészen 12 óráig van lehetőségetek majd kijelentkezni.",
+      "contact-details": {
+        "text": "Az foglalási e-mailnek tartalmaznia kell az esküvő dátumát és mindegyik megszálló vendég alábbi adatait:",
+        "content": {
+          "item1": "teljes név",
+          "item2": "lakcím",
+          "item3": "születési hely",
+          "item4": "születési idő",
+          "item5": "személyazonosító igazolvány szám",
+          "item6": "elérhetőség"
+        }
+      }
     },
     "building1": {
       "name": "Nagy épület",
