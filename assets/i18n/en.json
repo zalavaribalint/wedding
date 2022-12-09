@@ -73,9 +73,20 @@
   "accommodation": {
     "main": {
       "line1": "Below we would like to give you more details about exactly what accommodation you will have on site. In total there are 3 buildings at the Winery. Of these, 2 are guest houses and there are rooms on the first floor of the building where the dinner and wedding will take place.",
-      "line2": "On the advice of the Winery, contact them by phone (contact details below) rather than trying to book on other booking sites. In order to make sure you book a room on the spot, you must let them know by the end of January at the latest.",
+      "line2": "On the advice of the Winery, contact them by e-mail rather than trying to book on other booking sites. In order to make sure you book a room on the spot, you must let them know by the end of January at the latest.",
       "line3": "In addition, if you plan to go to bed early, try to stay in one of the guest houses, where the noise of the party is not so loud, but you can get to your room in a jiffy.",
-      "line4": "It's good to know that you'll have a hearty country breakfast the next day, included in the price of your room, and you'll have time until 12 noon to check out.."
+      "line4": "It's good to know that you'll have a hearty country breakfast the next day, included in the price of your room, and you'll have time until 12 noon to check out.",
+      "contact-details": {
+        "text": "The booking e-mail should contain the date of the wedding and the following data of every guests:",
+        "content": {
+          "item1": "full name",
+          "item2": "address",
+          "item3": "place of birth",
+          "item4": "date of birth",
+          "item5": "ID card number or passport number or driving licence number",
+          "item6": "contact details"
+        }
+      }
     },
     "building1": {
       "name": "Main building",
