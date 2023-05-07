@@ -23,6 +23,10 @@ const routes: Routes = [
     path: 'accommodation',
     loadChildren: () => import('./accommodation/accommodation.module').then((m) => m.AccommodationModule),
   },
+  {
+    path: 'gallery',
+    loadChildren: () => import('./gallery/gallery.module').then((m) => m.GalleryModule),
+  },
   { path: '', redirectTo: '/home', pathMatch: 'full' },
 ];
 

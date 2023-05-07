@@ -1,0 +1,10 @@
+@import 'lightgallery/scss/lg-variables';
+@import 'lightgallery/scss/lg-mixins';
+@import 'lightgallery/scss/lg-fonts';
+@import 'lightgallery/scss/lg-theme-default';
+
+// Core
+@import 'lightgallery/scss/lightgallery-core';
+.gallery-item {
+  width: 100px;
+}
