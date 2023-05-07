@@ -1,6 +1,4 @@
 import { ChangeDetectionStrategy, Component, OnInit } from '@angular/core';
-import lgZoom from 'lightgallery/plugins/zoom';
-import { InitDetail } from "lightgallery/lg-events";
 
 @Component({
   selector: 'app-gallery',
@@ -9,13 +7,5 @@ import { InitDetail } from "lightgallery/lg-events";
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class GalleryComponent {
-
-  settings = {
-    counter: false,
-    plugins: [lgZoom],
-  };
-  onInit = (detail: InitDetail): void => {
-    detail.instance.openGallery();
-  };
 
 }
