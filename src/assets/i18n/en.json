@@ -101,5 +101,10 @@
       "name": "Csacsiház II. guest house",
       "description": "This building has been gradually being expanded since 2015. A total of 3 rooms and 1 apartment have been created in this building. All rooms have double beds, while the apartment has an extra pull-out sofa bed. There is also a kitchen, which is shared with the lounge. There is a large grassy area next to the building."
     }
+  },
+  "gallery": {
+    "warning1": "Hello! These pictures and video are shared with you for personal usage. Please do not share them on any social network without our permission. Thank you!",
+    "warning2": "These photos are just our favorite ones. With the button below you can check out all the 970 pictures. \uD83D\uDE42",
+    "gallery-button":"Complete gallery"
   }
 }
