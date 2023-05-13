@@ -103,8 +103,8 @@
     }
   },
   "gallery": {
-    "warning1": "Sziasztok! Az alábbi képek és videó személyes használatra és megtekintésre lett megosztva Veletek. Ezért kérjük, ne osszátok meg semmilyen közösségi hálón az engedélyünk nélkül. Köszönjük!",
-    "warning2": "A fenti képek csak az általunk válogatott kedvencek. Az alábbi gombra kattintva megtekinthetitek a teljes galériát is. Bátorítunk Titeket, hogy nézzétek meg azt is és válasszátok ki a ti kedvenceiteket a 970 képből. \uD83D\uDE42",
+    "warning1": "Sziasztok! A lenti képek csak az általunk válogatott kedvencek. Az oldal alján lévő gombra kattintva megtekinthetitek a teljes galériát is. Bátorítunk Titeket, hogy nézzétek meg azt is és válasszátok ki a ti kedvenceiteket a 970 képből. \uD83D\uDE42",
+    "warning2": "Az alábbi képek és videó személyes használatra és megtekintésre lett megosztva Veletek. Ezért kérjük, ne osszátok meg semmilyen közösségi hálón az engedélyünk nélkül. Köszönjük!",
     "gallery-button":"Teljes galéria"
   }
 }

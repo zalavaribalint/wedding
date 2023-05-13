@@ -103,8 +103,8 @@
     }
   },
   "gallery": {
-    "warning1": "Hello! These pictures and video are shared with you for personal usage. Please do not share them on any social network without our permission. Thank you!",
-    "warning2": "These photos are just our favorite ones. With the button below you can check out all the 970 pictures. \uD83D\uDE42",
+    "warning1": "Hello! These photos are just our favorite ones. With the button below the pictures you can check out all the 970 pictures. \uD83D\uDE42",
+    "warning2": "These pictures and video are shared with you for personal usage. Please do not share them on any social network without our permission. Thank you!",
     "gallery-button":"Complete gallery"
   }
 }
