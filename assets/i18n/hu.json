@@ -4,6 +4,7 @@
     "church": "Egyházi",
     "civil": "Polgári",
     "accommodation": "Szállás",
+    "gallery": "Galéria",
     "date": "2023.04.22."
   },
   "home": {
@@ -100,5 +101,10 @@
       "name": "Csacsiház II. Panzió",
       "description": "Ez az épület 2015-től bővíti a Csacsiház Panzió szobakínálatát. Összesen 3 szoba és 1 apartman került kialakításra ebben az épületben. Az összes szoba franciaágyas, míg az apartmanban egy plusz kihúzható kanapé is található. Itt van még konyha, mely egybe van a társalgóval. Az épület mellett nagy, fűvel borított terület található."
     }
+  },
+  "gallery": {
+    "warning1": "Sziasztok! A lenti képek csak az általunk válogatott kedvencek. Az oldal alján lévő gombra kattintva megtekinthetitek a teljes galériát is. Bátorítunk Titeket, hogy nézzétek meg azt is és válasszátok ki a ti kedvenceiteket a 970 képből. \uD83D\uDE42",
+    "warning2": "Az alábbi képek és videó személyes használatra és megtekintésre lett megosztva Veletek. Ezért kérjük, ne osszátok meg semmilyen közösségi hálón az engedélyünk nélkül. Köszönjük!",
+    "gallery-button":"Teljes galéria"
   }
 }
